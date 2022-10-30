@@ -1,11 +1,11 @@
+/* This is a Copyright code to the Authors.
+In case of copy of any part of this code, mention reference of that code's source in yours code.
+Otherwise, your code will be legally challenged */
+
 #include<stdio.h>
 char a1, a2, a3, a4, a5, a6, a7, a8, a9, a10, a11, a12, a13;
 // char a14, a15, a16, a17;
 int alphaOne(int, char);
-
-/* This is a Copyright code to the Authors.
-In case of copy of any part of this code, mention reference of that code's source in yours code.
-Otherwise, your code will be legally challenged */
 
 int main()
 {   printf("\n\n%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c\n%c C%c-DRA%cON%c Production %c\n%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c", 201,205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 187, 186, 21, 20, 21, 186, 200, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205 ,188);
