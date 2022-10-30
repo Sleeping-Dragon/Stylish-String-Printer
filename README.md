@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Sleeping-Dragon
 - 👀 I’m interested in Cybersecurity and Game Development.
 - 🌱 I’m currently learning C/C++.
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me:
-- **LinkedIn:** 
+- **LinkedIn:** https://www.linkedin.com/in/muhammad-huzaifa-latif-436b35248/
 - **Instaagram:** https://www.instagram.com/huzaifabinlatif/
 - **Facebook:** https://www.facebook.com/sleepingdragon.hbl
 
