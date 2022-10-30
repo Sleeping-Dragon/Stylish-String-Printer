@@ -1,3 +1,5 @@
+/*This is the code which print INPUT enter in star pattern. String print, Numeric input with Heart emoji*/
+
 /* This is a Copyright code to the Authors.
 In case of copy of any part of this code, mention reference of that code's source in yours code.
 Otherwise, your code will be legally challenged */
