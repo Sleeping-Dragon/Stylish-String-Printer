@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity and Game Development.
 - 🌱 I’m currently learning C/C++.
 - 📫 How to reach me:
-- **LinkedIn:** [https://www.linkedin.com/in/muhammad-huzaifa-latif-436b35248/](https://www.linkedin.com/in/muhammadhuzaifalatif/)
+- **LinkedIn:** https://www.linkedin.com/in/muhammadhuzaifalatif/
 - **Instaagram:** https://www.instagram.com/huzaifabinlatif/
 - **Facebook:** https://www.facebook.com/sleepingdragon.hbl
 
