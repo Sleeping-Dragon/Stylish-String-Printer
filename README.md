@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sleeping-Dragon
-- 👀 I’m interested in Cybersecurity and Game Development.
 - 🌱 I’m currently learning C/C++.
+- This is the code that prints INPUT enter in a star pattern. String print, Numeric input with Heart emoji
 - 📫 How to reach me:
 - **LinkedIn:** https://www.linkedin.com/in/muhammadhuzaifalatif/
 - **Instaagram:** https://www.instagram.com/huzaifabinlatif/
